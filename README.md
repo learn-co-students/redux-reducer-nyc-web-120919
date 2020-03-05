@@ -29,7 +29,7 @@ code in `src/reducers/manageFriends.js` and `serc/reducers/managePresents.js`.
 
    Actions passed into this reducer will only have a _type_ attribute, so they
    would look something like this:
-
+ 
       ```js
         action = {
           type: "INCREASE"
